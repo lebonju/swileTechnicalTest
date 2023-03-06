@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SwileTechnicalTest
+
+  Created by Julien Forestier on 01/03/2023.
+  
+*/
+
+// Categories
+"meal_voucher" = "Titres-resto";
+"mobility" = "Transports";
+"gift" = "Titres cadeaux";
+"payment" = "Paiement entre amis";
+
+// Transaction details
+"switch_account" = "Changer de compte";
+"share" = "Partage d'addition";
+"like" = "Aimer";
+"report" = "Signaler un problème";

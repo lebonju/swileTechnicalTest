@@ -1,0 +1,11 @@
+disabled_rules:
+  - switch_case_alignment
+
+line_length:
+  - 220 # warning
+  - 250 # error
+
+nesting:
+  type_level:
+    warning: 3
+    error: 4

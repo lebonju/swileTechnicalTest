@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SwileTechnicalTest
+
+  Created by Julien Forestier on 01/03/2023.
+  
+*/
+
+// Categories
+"meal_voucher" = "Meal voucher";
+"mobility" = "Mobility";
+"gift" = "Gift voucher";
+"payment" = "Friends payment";
+
+// Transaction details
+"switch_account" = "Switch account";
+"share" = "Split the bill";
+"like" = "Like";
+"report" = "Report an issue";
